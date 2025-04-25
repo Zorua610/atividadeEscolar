@@ -37,6 +37,10 @@
 		<br/> <hr/>
 
 		<a href="cadNotas.php">Cadastro de Notas</a>
+
+		<br> <hr>
+
+		<a href="amemdeusabencoe.hom">Joui twink supremacy!</a>
 	</h2>
 
 </body>
